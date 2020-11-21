@@ -1,3 +1,4 @@
+/*
 Problem: Given an array nums. 
 We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
 
@@ -11,6 +12,9 @@ Explanation: Running sum is obtained as follows: [1, 1+2, 1+2+3, 1+2+3+4].
 Example 2
 Input: nums = [3,1,2,10,1]
 Output: [3,4,6,16,17]
+
+*/
+
 
 #include<iostream>
 #include<bits/stdc++.h>
